@@ -1,4 +1,5 @@
 #Atliq Hardware Sales Insights Dashboard
+
 ##Problem Statement
 Atliq Hardware, a leading supplier of computer hardware and peripherals across India, is facing challenges in efficiently tracking and analyzing sales performance. Bhaven Patel, the Sales Director, relies on regional managers from North, South, and Central India for sales updates. Unfortunately, these insights are often verbal, sugar-coated, or incomplete, making it difficult for him to get an accurate picture of the company’s performance.
 
