@@ -1,4 +1,4 @@
-#Atliq Hardware Sales Insights Dashboard
+**#Atliq Hardware Sales Insights Dashboard
 
 ##Problem Statement
 Atliq Hardware, a leading supplier of computer hardware and peripherals across India, is facing challenges in efficiently tracking and analyzing sales performance. Bhaven Patel, the Sales Director, relies on regional managers from North, South, and Central India for sales updates. Unfortunately, these insights are often verbal, sugar-coated, or incomplete, making it difficult for him to get an accurate picture of the company’s performance.
@@ -23,3 +23,4 @@ We propose the development of a real-time sales insights dashboard that will pro
 **Performance Insights:** Gain clarity on which products are performing best and where to focus promotional efforts.
 ##Live Dashboard
 For more details, access the live dashboard [Sales Insights](https://app.powerbi.com/view?r=eyJrIjoiNjdmNjA0YWUtOTE4ZC00ZTM0LWFiNjgtNzBkZTA4MWE2MGMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**
